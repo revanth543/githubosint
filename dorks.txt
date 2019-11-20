@@ -1,0 +1,75 @@
+org:{companyname.com} filename:.npmrc _auth
+org:{companyname.com} filename:.dockercfg auth
+org:{companyname.com} extension:pem private
+org:{companyname.com} extension:ppk private
+org:{companyname.com} filename:id_rsa or filename:id_dsa
+org:{companyname.com} extension:sql mysql dump
+org:{companyname.com} extension:sql mysql dump password
+org:{companyname.com} filename:credentials aws_access_key_id
+org:{companyname.com} filename:.s3cfg
+org:{companyname.com} filename:wp-config.php
+org:{companyname.com} filename:.htpasswd
+org:{companyname.com} filename:.env DB_USERNAME NOT homestead
+org:{companyname.com} filename:.env MAIL_HOST=smtp.gmail.com
+org:{companyname.com} filename:.git-credentials
+org:{companyname.com} PT_TOKEN language:bash
+org:{companyname.com} filename:.bashrc password
+org:{companyname.com} filename:.bashrc mailchimp
+org:{companyname.com} filename:.bash_profile aws
+org:{companyname.com} rds.amazonaws.com password
+org:{companyname.com} extension:json api.forecast.io
+org:{companyname.com} extension:json mongolab.com
+org:{companyname.com} extension:yaml mongolab.com
+org:{companyname.com} jsforce extension:js conn.login
+org:{companyname.com} SF_USERNAME salesforce
+org:{companyname.com} filename:.tugboat NOT _tugboat
+org:{companyname.com} HEROKU_API_KEY language:shell
+org:{companyname.com} HEROKU_API_KEY language:json
+org:{companyname.com} filename:.netrc password
+org:{companyname.com} filename:_netrc password
+org:{companyname.com} filename:hub oauth_token
+org:{companyname.com} filename:robomongo.json
+org:{companyname.com} filename:filezilla.xml Pass
+org:{companyname.com} filename:recentservers.xml Pass
+org:{companyname.com} filename:config.json auths
+org:{companyname.com} filename:idea14.key
+org:{companyname.com} filename:config irc_pass
+org:{companyname.com} filename:connections.xml
+org:{companyname.com} filename:express.conf path:.openshift
+org:{companyname.com} filename:.pgpass
+org:{companyname.com} filename:proftpdpasswd
+org:{companyname.com} filename:ventrilo_srv.ini
+org:{companyname.com} [WFClient] Password= extension:ica
+org:{companyname.com} filename:server.cfg rcon password
+org:{companyname.com} JEKYLL_GITHUB_TOKEN
+org:{companyname.com} filename:.bash_history
+org:{companyname.com} filename:.cshrc
+org:{companyname.com} filename:.history
+org:{companyname.com} filename:.sh_history
+org:{companyname.com} filename:sshd_config
+org:{companyname.com} filename:dhcpd.conf
+org:{companyname.com} filename:prod.exs NOT prod.secret.exs
+org:{companyname.com} filename:prod.secret.exs
+org:{companyname.com} filename:configuration.php JConfig password
+org:{companyname.com} filename:config.php dbpasswd
+org:{companyname.com} path:sites databases password
+org:{companyname.com} shodan_api_key language:python
+org:{companyname.com} filename:shadow path:etc
+org:{companyname.com} filename:passwd path:etc
+org:{companyname.com} extension:avastlic
+org:{companyname.com} extension:dbeaver-data-sources.xml
+org:{companyname.com} filename:.esmtprc password
+org:{companyname.com} extension:json googleusercontent client_secret
+org:{companyname.com} HOMEBREW_GITHUB_API_TOKEN language:shell
+org:{companyname.com} xoxp OR xoxb
+org:{companyname.com} .mlab.com password
+org:{companyname.com} filename:logins.json
+org:{companyname.com} filename:CCCam.cfg
+org:{companyname.com} msg nickserv identify filename:config
+org:{companyname.com} filename:settings.py SECRET_KEY
+org:{companyname.com} filename:deployment-config.json
+org:{companyname.com} filename:.ftpconfig
+org:{companyname.com} filename:.remote-sync.json
+org:{companyname.com} filename:sftp.json path:.vscode
+org:{companyname.com} filename:sftp-config.json
+org:{companyname.com} filename:WebServers.xml
