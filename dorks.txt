@@ -1,0 +1,75 @@
+org:agoda-com filename:.npmrc _auth
+org:agoda-com filename:.dockercfg auth
+org:agoda-com extension:pem private
+org:agoda-com extension:ppk private
+org:agoda-com filename:id_rsa or filename:id_dsa
+org:agoda-com extension:sql mysql dump
+org:agoda-com extension:sql mysql dump password
+org:agoda-com filename:credentials aws_access_key_id
+org:agoda-com filename:.s3cfg
+org:agoda-com filename:wp-config.php
+org:agoda-com filename:.htpasswd
+org:agoda-com filename:.env DB_USERNAME NOT homestead
+org:agoda-com filename:.env MAIL_HOST=smtp.gmail.com
+org:agoda-com filename:.git-credentials
+org:agoda-com PT_TOKEN language:bash
+org:agoda-com filename:.bashrc password
+org:agoda-com filename:.bashrc mailchimp
+org:agoda-com filename:.bash_profile aws
+org:agoda-com rds.amazonaws.com password
+org:agoda-com extension:json api.forecast.io
+org:agoda-com extension:json mongolab.com
+org:agoda-com extension:yaml mongolab.com
+org:agoda-com jsforce extension:js conn.login
+org:agoda-com SF_USERNAME salesforce
+org:agoda-com filename:.tugboat NOT _tugboat
+org:agoda-com HEROKU_API_KEY language:shell
+org:agoda-com HEROKU_API_KEY language:json
+org:agoda-com filename:.netrc password
+org:agoda-com filename:_netrc password
+org:agoda-com filename:hub oauth_token
+org:agoda-com filename:robomongo.json
+org:agoda-com filename:filezilla.xml Pass
+org:agoda-com filename:recentservers.xml Pass
+org:agoda-com filename:config.json auths
+org:agoda-com filename:idea14.key
+org:agoda-com filename:config irc_pass
+org:agoda-com filename:connections.xml
+org:agoda-com filename:express.conf path:.openshift
+org:agoda-com filename:.pgpass
+org:agoda-com filename:proftpdpasswd
+org:agoda-com filename:ventrilo_srv.ini
+org:agoda-com [WFClient] Password= extension:ica
+org:agoda-com filename:server.cfg rcon password
+org:agoda-com JEKYLL_GITHUB_TOKEN
+org:agoda-com filename:.bash_history
+org:agoda-com filename:.cshrc
+org:agoda-com filename:.history
+org:agoda-com filename:.sh_history
+org:agoda-com filename:sshd_config
+org:agoda-com filename:dhcpd.conf
+org:agoda-com filename:prod.exs NOT prod.secret.exs
+org:agoda-com filename:prod.secret.exs
+org:agoda-com filename:configuration.php JConfig password
+org:agoda-com filename:config.php dbpasswd
+org:agoda-com path:sites databases password
+org:agoda-com shodan_api_key language:python
+org:agoda-com filename:shadow path:etc
+org:agoda-com filename:passwd path:etc
+org:agoda-com extension:avastlic
+org:agoda-com extension:dbeaver-data-sources.xml
+org:agoda-com filename:.esmtprc password
+org:agoda-com extension:json googleusercontent client_secret
+org:agoda-com HOMEBREW_GITHUB_API_TOKEN language:shell
+org:agoda-com xoxp OR xoxb
+org:agoda-com .mlab.com password
+org:agoda-com filename:logins.json
+org:agoda-com filename:CCCam.cfg
+org:agoda-com msg nickserv identify filename:config
+org:agoda-com filename:settings.py SECRET_KEY
+org:agoda-com filename:deployment-config.json
+org:agoda-com filename:.ftpconfig
+org:agoda-com filename:.remote-sync.json
+org:agoda-com filename:sftp.json path:.vscode
+org:agoda-com filename:sftp-config.json
+org:agoda-com filename:WebServers.xml
